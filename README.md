@@ -6,6 +6,17 @@
     <img src="https://github.com/D-AvocationDesign/Bottle_Art/blob/main/docs/gif/tumblr_p8knpf2dhx1rxrzu5o1_1280.gif" width="200px"</img> 
 </div>
 
+
+
+
+
+(https://github.com/D-AvocationDesign/Index/blob/main/docs/notes/readme.md#Logo)
+
+(https://github.com/D-AvocationDesign/Index/blob/main/docs/notes/readme.md#BottleArt)
+
+
+
+
 # Table
 
 <table>
