@@ -10,8 +10,8 @@
 
 <table>
     <tr><th>SlNo</th><th>Topic</th><th>Description</th></tr>
-    <tr><td>1.</td><td><a href="">Bottle Arts</a></td><td>Beautiful craft designed on the wasted bottles</td></tr>
-    <tr><td>2.</td><td><a href="">Logo Designs</a></td><td>Design custom images as per requirment (eg: software,shops,community...etc)</td></tr>
+    <tr><td>1.</td><td><a href="https://github.com/D-AvocationDesign/Index/blob/main/docs/notes/Bottle_arts.md">Bottle Arts</a></td><td>Beautiful craft designed on the wasted bottles</td></tr>
+    <tr><td>2.</td><td><a href="https://github.com/D-AvocationDesign/Index/blob/main/docs/notes/Logo_Design.md">Logo Designs</a></td><td>Design custom images as per requirment (eg: software,shops,community...etc)</td></tr>
     <tr><td>3.</td><td><a href="">?</a></td><td>?</td></tr>
     <tr><td>4.</td><td><a href="">?</a></td><td>?</td></tr>
     <tr><td>5.</td><td><a href="">?</a></td><td>?</td></tr>
